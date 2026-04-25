@@ -5,7 +5,7 @@
 This extension is based on the popular Dash to Dock extension and keeps the same idea of moving the dash out of the overview and turning it into a dock.
 
 ## Screenshot
-![Window previews screenshot](https://github.com/micheleg/dash-to-dock/raw/master/media/screenshot.jpg)
+![Window previews screenshot](https://github.com/thiagoneo/dash-to-dock/raw/master/media/Screenshot.png)
 
 The screenshot above demonstrates the enhanced window preview popup when hovering over an application icon.
 
