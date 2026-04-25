@@ -1,0 +1,17 @@
+{
+  "description": "A dock for the Gnome Shell — fork with hover window previews, side-by-side thumbnails and window management context menu.",
+  "gettext-domain": "dashtodock",
+  "name": "Dash to Dock Enhanced",
+  "original-author": "micxgx@gmail.com",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://micheleg.github.io/dash-to-dock/",
+  "uuid": "dash-to-dock-enhanced@local",
+  "version": 104
+}
